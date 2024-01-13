@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mobile Project</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_total_balance">Total Balance</string>
+    <string name="main_income">Income</string>
+    <string name="main_expenses">Expense</string>
+    <string name="main_transaction">Transactions</string>
+    <string name="main_view_all">View All</string>
+    <string name="main_amount_placeholder">$</string>
+    <string name="transaction_name">Name</string>
+    <string name="transaction_amount">Amount</string>
+    <string name="transaction_date">Date</string>
+    <string name="transaction_category">Category</string>
+    <string name="transaction_add_expense">Add Expense</string>
+    <string name="transaction_add_income">Add Income</string>
+    <string name="transaction_select_category">Select Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="graph">Graph</string>
+    <string name="pie">Pie</string>
+    <string name="chart">Chart</string>
+
+    <string-array name="income_category_list">
+        <item>Salary</item>
+        <item>Gift</item>
+        <item>Investment</item>
+        <item>Lottery</item>
+        <item>Interest</item>
+        <item>Passive Income</item>
+        <item>Investment</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="expense_category_list">
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>

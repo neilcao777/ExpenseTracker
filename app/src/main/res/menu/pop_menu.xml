@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add_transaction"
+        android:title="@string/transaction_add_expense" />
+    <item
+        android:id="@+id/menu_add_income"
+        android:title="@string/transaction_add_income" />
+</menu>

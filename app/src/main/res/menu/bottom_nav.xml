@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/chart"
+        android:id="@+id/chart"
+        android:icon="@drawable/ic_baseline_preview_24"/>
+    <item android:title="@string/pie"
+        android:id="@+id/pie"
+        android:icon="@drawable/ic_baseline_pie_chart_outline_24"/>
+
+    <item android:title="@string/graph"
+        android:id="@+id/graph"
+        android:icon="@drawable/ic_baseline_analytics_24"/>
+</menu>
